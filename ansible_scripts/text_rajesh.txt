@@ -1,0 +1,3 @@
+Providing well-written documentation helps people understand, make use of, and contribute back to your project, but it's only half of the documentation equation. The underlying system used to serve documentation can make life easier for the people writing it—whether that's just you or the team you work with.
+
+The hardest part about documentation should be deciding which words to use, not configuring tools or figuring out how to deploy updates. Members of the GitHub Documentation Team come from backgrounds where crude XML-based authoring tools and complicated CMSs are the norm. We didn't want to use those tools here so we've spent a good deal of time configuring our own documentation workflow and set-up.
